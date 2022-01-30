@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipemnz&theme=dark" alt="felipemnz" /></a> </p>
 
-- 💬 Ask me about **c#, .NET, AWS**
+- 💬 Ask me about anything <a href="https://github.com/felipemnz/felipemnz/issues" target="blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
